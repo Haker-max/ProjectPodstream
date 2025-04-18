@@ -6,8 +6,8 @@
   "type": "module",
   "proxy":"http://localhost:3000/",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "npm start",
+    "dev": "npm start"
   },
   "engines": {
   "node": "20.15.1"
